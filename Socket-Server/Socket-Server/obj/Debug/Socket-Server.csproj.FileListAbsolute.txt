@@ -1,0 +1,8 @@
+C:\Users\ricca\source\repos\Socket-Server\Socket-Server\bin\Debug\Socket-Server.exe.config
+C:\Users\ricca\source\repos\Socket-Server\Socket-Server\bin\Debug\Socket-Server.exe
+C:\Users\ricca\source\repos\Socket-Server\Socket-Server\bin\Debug\Socket-Server.pdb
+C:\Users\ricca\source\repos\Socket-Server\Socket-Server\obj\Debug\Socket-Server.csproj.AssemblyReference.cache
+C:\Users\ricca\source\repos\Socket-Server\Socket-Server\obj\Debug\Socket-Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\ricca\source\repos\Socket-Server\Socket-Server\obj\Debug\Socket-Server.csproj.CoreCompileInputs.cache
+C:\Users\ricca\source\repos\Socket-Server\Socket-Server\obj\Debug\Socket-Server.exe
+C:\Users\ricca\source\repos\Socket-Server\Socket-Server\obj\Debug\Socket-Server.pdb
